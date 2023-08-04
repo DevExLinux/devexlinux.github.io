@@ -1,5 +1,8 @@
 # The Developer Experience Linux Distribution
 
+DevEx Linux is a Linux distribution that aims to provide a great developer experience out of the box.
+
+It is a Linux distribution that runs on top of Windows Subsystem for Linux (WSL), as such the only requirement is a recent version of Windows 10 or Windows 11.
 
 - 🤝    Diversity Friendly [Code of Conduct](./Code_Of_Conduct.md)
 - 🐍    Some of us love Python

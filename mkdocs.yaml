@@ -1,8 +1,8 @@
 # Project information
-site_name: Kind In Open Source
-site_author: KIOSS team
+site_name: The Developer Experience Linux distribution
 
-repo_url: https://github.com/kind-in-open-source/kind-in-open-source.github.io/
+
+repo_url: https://github.com/DevExLinux/devexlinux.github.io
 edit_uri: blob/master/docs/
 
 theme:
@@ -29,4 +29,4 @@ markdown_extensions:
     - pymdownx.details
     - pymdownx.superfences
 
-copyright:  Copyright © Contributors to the Kind In Open Source project
+copyright:  Copyright © Contributors to the DevExLinux project

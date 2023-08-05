@@ -26,9 +26,8 @@ markdown_extensions:
     - pymdownx.details
     - pymdownx.superfences
 
-plugins:
-    - mkdocs-simple-hooks:
-        hooks:
-        on_post_build: "docs.hooks:copy_get"
+hooks:
+    - docs/hooks.py
+
 
 copyright:  Copyright © Contributors to the DevExLinux project

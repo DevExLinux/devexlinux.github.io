@@ -1,5 +1,5 @@
 # Project information
-site_name: The KindOS Development Workspace
+site_name: The KindOS Workspace
 repo_url: https://github.com/KindOS-workspace/kindos-workspace.github.io
 
 theme:
@@ -37,4 +37,4 @@ extra_css:
     
 
 
-copyright:  Copyright © Contributors to the The KindOS Development Workspace
+copyright:  Copyright © Contributors to the The KindOS Workspace

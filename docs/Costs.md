@@ -1,6 +1,6 @@
 # Infra Running Costs
 
-Table
+This document is a list of the running costs for the infrastructure.
 
 | Service | Cost | Notes |
 | --- | --- | --- |

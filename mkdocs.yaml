@@ -32,5 +32,9 @@ markdown_extensions:
 hooks:
     - hooks.py
 
+extra_css:
+    - css/custom.css
+    
+
 
 copyright:  Copyright © Contributors to the The KindOS Development Workspace

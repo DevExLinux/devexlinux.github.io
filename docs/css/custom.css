@@ -1,0 +1,11 @@
+/* class to keep images centered and with the same size */
+.small-img {
+    padding: 0.5em;
+}
+
+/* class to center a div */
+.center-div {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}

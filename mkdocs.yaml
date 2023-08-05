@@ -1,9 +1,6 @@
 # Project information
 site_name: The Developer Experience Linux distribution
-
-
 repo_url: https://github.com/DevExLinux/devexlinux.github.io
-edit_url: edit/master/docs/
 
 theme:
     name: material
@@ -32,6 +29,6 @@ markdown_extensions:
 plugins:
     - mkdocs-simple-hooks:
         hooks:
-            on_post_build: "docs.hooks:copy_get"
+        on_post_build: "docs.hooks:copy_get"
 
 copyright:  Copyright © Contributors to the DevExLinux project

@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
-sh <(curl -L https://raw.githubusercontent.com/KindOS-workspace/system-profile/master/remote-install.sh)
+bash <(curl -L https://raw.githubusercontent.com/KindOS-workspace/system-profile/master/remote-install.sh)
 

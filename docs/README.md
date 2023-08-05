@@ -2,8 +2,6 @@
 
 DevEx Linux is designed to be easy to use and install for developers.
 
-It runs on top of Windows Subsystem for Linux (WSL), as such the only requirement is a recent version of Windows 10 or Windows 11.
-
 [![Join us on Telegram](https://img.shields.io/badge/Join%20us%20on-Telegram-brightgreen)](https://t.me/kindinoss)
 
 

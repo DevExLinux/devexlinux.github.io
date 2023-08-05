@@ -1,4 +1,4 @@
-# Installing in Debian
+# Installing in Debian 12
 
 From a terminal with a root shell run:
 ```sh

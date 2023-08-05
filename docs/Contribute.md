@@ -6,8 +6,8 @@ You can edit and test this site using the following instructions on this page
 
 ## Run the site 
 ```sh
-git clone git@github.com:DevExLinux/devexlinux.github.io.git
-cd devexlinux.github.io.git
+git clone git@github.com:KindOS-workspace/kindos-workspace.github.io.git
+cd kindos-workspace.github.io.git
 pip install -r requirements.txt
 mkdocs serve
 ```

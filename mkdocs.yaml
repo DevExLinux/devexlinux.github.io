@@ -1,6 +1,6 @@
 # Project information
-site_name: The Developer Experience Linux
-repo_url: https://github.com/DevExLinux/devexlinux.github.io
+site_name: The KindOS Development Workspace
+repo_url: https://github.com/KindOS-workspace/kindos-workspace.github.io
 
 theme:
     name: material
@@ -22,12 +22,15 @@ theme:
                 name: Switch to light mode
 
 markdown_extensions:
+    - attr_list
     - admonition
+    - md_in_html
     - pymdownx.details
     - pymdownx.superfences
 
+
 hooks:
-    - docs/hooks.py
+    - hooks.py
 
 
-copyright:  Copyright © Contributors to the DevExLinux project
+copyright:  Copyright © Contributors to the The KindOS Development Workspace

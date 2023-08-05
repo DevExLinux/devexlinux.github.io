@@ -1,5 +1,5 @@
 # Set the URL of the zip file
-$zipUrl = "https://github.com/DevExLinux/install/archive/refs/heads/main.zip"
+$zipUrl = "https://github.com/KindOS-workspace/wsl-install/archive/refs/heads/main.zip"
 
 $originalWorkingDir = Get-Location
 
@@ -25,7 +25,7 @@ Expand-Archive -Path $zipFilePath -DestinationPath $extractDir
 Remove-Item -Path $zipFilePath
 
 # You can now use the extracted files in $extractDir for further processing
-Set-Location -Path $extractDir\install-main
+Set-Location -Path $extractDir\wsl-install-main
 
 & windows\install.ps1
 

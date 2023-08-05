@@ -6,8 +6,8 @@ You can edit and test this site using the following instructions on this page
 
 ## Run the site 
 ```sh
-git clone git@github.com:kind-in-open-source/kind-in-open-source.github.io.git
-cd kind-in-open-source.github.io
+git clone git@github.com:DevExLinux/devexlinux.github.io.git
+cd devexlinux.github.io.git
 pip install -r requirements.txt
 mkdocs serve
 ```

@@ -34,7 +34,6 @@ hooks:
 
 extra_css:
     - css/custom.css
-    
 
 
 copyright:  Copyright © Contributors to the The KindOS Workspace

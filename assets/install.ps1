@@ -27,6 +27,6 @@ Remove-Item -Path $zipFilePath
 # You can now use the extracted files in $extractDir for further processing
 Set-Location -Path $extractDir\wsl-install-main
 
-& windows\install.ps1
+& .\install.ps1
 
 Set-Location -Path $originalWorkingDir

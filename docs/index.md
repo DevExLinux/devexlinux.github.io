@@ -1,11 +1,11 @@
 # The Developers Friendly Open Source Workspace
 
- Cutting-edge platform designed to empower developers with tools and resources for efficient open-source software development.
+## Alpine on Windows built with Python
 
 <div class="center-div">
-    <img src="images/Microsoft.svg" class="small-img" width="100em">
-    <img src="images/Add.svg" class="small-img" width="110em">
     <img src="images/Alpine.png" class="small-img" width="110em">
+    <img src="images/Add.svg" class="small-img" width="110em">
+    <img src="images/Windows.svg" class="small-img" width="100em">
     <img src="images/Add.svg" class="small-img" width="110em">
     <img src="images/Python.svg" class="small-img" width="100em">
 </div>

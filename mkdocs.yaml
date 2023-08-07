@@ -1,6 +1,6 @@
 # Project information
 site_name: The KindOS Workspace
-repo_url: https://github.com/KindOS-workspace/kindos-workspace.github.io
+repo_url: https://github.com/KindOS-Forge/kindos-forge.github.io
 
 theme:
     name: material

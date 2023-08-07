@@ -17,7 +17,7 @@ $ProgressPreference = 'SilentlyContinue'  # Improves the download speed
 $url = 'https://github.com/kindos-forge/kindos/releases/latest/download/kindos.tar.gz'
 Invoke-WebRequest  -Uri $url -OutFile $env:TEMP\kindos.tar.gz
 
-wsl --import KindOS $env:TEMP\kindos.tar.gz
+wsl --import KindOS $env:USERPROFILE\KindOS $env:TEMP\kindos.tar.gz
 
 wsl -d KindOS # Enter KindOS
 ```

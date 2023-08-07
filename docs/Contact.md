@@ -1,7 +1,7 @@
 # Contact
 
 
-- 🤝    Diversity Friendly [Code of Conduct](./Code_Of_Conduct.md)
+- 🤝    Diversity Friendly [Code of Conduct](./CodeOfConduct.md)
 - 🔒    End to end encryption communication for maximum [privacy](./Privacy.md)
 
 

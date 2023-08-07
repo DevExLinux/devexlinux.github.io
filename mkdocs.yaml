@@ -9,6 +9,7 @@ theme:
         - navigation.instant
         - toc.integrate
         - toc.follow
+        - content.code.copy
     palette:
         -   media: "(prefers-color-scheme: light)"
             scheme: default

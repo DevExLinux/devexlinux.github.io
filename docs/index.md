@@ -11,13 +11,10 @@
 </div>
 
 
-From a Windows terminal (PowerShell), run:
+From a Windows terminal , run:
 ```powershell
-$ProgressPreference = 'SilentlyContinue'  # Improves the download speed
-$url = 'https://github.com/kindos-forge/kindos/releases/latest/download/kindos.tar.gz'
-Invoke-WebRequest  -Uri $url -OutFile $env:TEMP\kindos.tar.gz
-
-wsl --import KindOS $env:USERPROFILE\KindOS $env:TEMP\kindos.tar.gz
-
-wsl -d KindOS # Enter KindOS
+$url='https://github.com/kindos-forge/kindos/releases/latest/download/kindos.tar.gz'
+curl.exe -O $url | wsl.exe --import KindOS $Env:USERPROFILE\KindOS -
+# Enter KindOS
+wsl -d KindOS
 ```

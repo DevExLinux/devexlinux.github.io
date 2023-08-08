@@ -29,10 +29,6 @@ markdown_extensions:
     - pymdownx.details
     - pymdownx.superfences
 
-
-hooks:
-    - hooks.py
-
 extra_css:
     - css/custom.css
 

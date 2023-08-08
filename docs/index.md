@@ -14,7 +14,7 @@
 From a Windows terminal , run:
 ```powershell
 $url='https://github.com/kindos-forge/kindos/releases/latest/download/kindos.tar.gz'
-curl.exe -O $url | wsl.exe --import KindOS $Env:USERPROFILE\KindOS -
+curl.exe -L $url | wsl.exe --import KindOS $Env:USERPROFILE\KindOS -
 # Enter KindOS
 wsl -d KindOS
 ```
